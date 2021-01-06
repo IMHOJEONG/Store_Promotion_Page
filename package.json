@@ -1,0 +1,23 @@
+{
+  "name": "store_promotion_page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IMHOJEONG/Store_Promotion_Page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IMHOJEONG/Store_Promotion_Page/issues"
+  },
+  "homepage": "https://github.com/IMHOJEONG/Store_Promotion_Page#readme",
+  "devDependencies": {
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.1"
+  }
+}

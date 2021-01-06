@@ -145,3 +145,20 @@ img{
   width: 70%;
   margin: 0px 15%;
 }
+
+#go_home{
+  color: white;
+  text-decoration-line: none;
+}
+
+@media only screen and (max-width: 480px){
+  .background-video>video:nth-child(2){
+    display:none;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 1024px){
+  .background-video>video{
+    width: 50%;
+  }
+}
